@@ -12,7 +12,7 @@ The goal is to create a simple and functional interface for managing student rec
 */
 
 import { useState } from "react";
-import NavBar from "../Components/NavBar";
+import NavBar from "../Components/Navbar";
 import AddStudentForm from "../Components/AddStudentForm";
 import Footer from "../Components/Footer";
 import initialStudents from "../student.json";
