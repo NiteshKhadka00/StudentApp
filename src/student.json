@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1740068121871,
+    "firstName": "Nitesh",
+    "lastName": "Khadka",
+    "dob": "1998-02-02",
+    "grade": "1.0"
+  },
+  {
+    "id": 1740068135198,
+    "firstName": "Mark",
+    "lastName": "Uy",
+    "dob": "2020-02-02",
+    "grade": "2.0"
+  },
+  {
+    "id": 1740068152389,
+    "firstName": "Tresha",
+    "lastName": "Tan",
+    "dob": "1997-02-02",
+    "grade": "3.7"
+  }
+]
